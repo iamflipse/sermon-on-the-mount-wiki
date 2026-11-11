@@ -1,0 +1,12 @@
+[book]
+title = "Sermon on the Mount — Complete Text with Jordan Peterson's Commentary"
+authors = ["iamflipse"]
+description = "The complete Sermon on the Mount (Matthew 5–7) in the King James Version and World English Bible, paired passage by passage with summaries and short quotes from Jordan B. Peterson's lecture series."
+language = "en"
+
+[build]
+charset = "utf-8"
+
+[output.html]
+site-url = "/sermon-on-the-mount-wiki/"
+git-repository-url = "https://github.com/iamflipse/sermon-on-the-mount-wiki"
