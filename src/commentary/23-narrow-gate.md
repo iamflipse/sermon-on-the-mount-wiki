@@ -4,6 +4,12 @@
 
 ← [The Golden Rule](22-golden-rule.md) · [Matthew 7 full text](../text/matthew-7.md) · [False Prophets and Their Fruits](24-false-prophets-and-fruits.md) →
 
+## Video: The narrow gate
+
+<video controls playsinline preload="metadata" style="width:100%;max-width:360px;border-radius:8px" src="https://spark-c848.tail773700.ts.net:8444/out/sermon-reel-gate-phone.mp4"></video>
+
+*Vertical essay reel, 83 s. Plays on your tailnet only ([open video](https://spark-c848.tail773700.ts.net:8444/out/sermon-reel-gate-phone.mp4)).*
+
 ## The verses
 
 | v. | King James Version (1769) | World English Bible |
