@@ -4,6 +4,12 @@
 
 ← ["Lord, Lord"](25-lord-lord.md) · [Matthew 7 full text](../text/matthew-7.md) · [The Crowd Astonished](27-crowd-astonished.md) →
 
+## Video: Build your house on the rock
+
+<video controls playsinline preload="metadata" style="width:100%;max-width:360px;border-radius:8px" src="https://spark-c848.tail773700.ts.net:8444/out/sermon-reel-phone.mp4"></video>
+
+*Vertical essay reel, 78 s. Plays on your tailnet only ([open video](https://spark-c848.tail773700.ts.net:8444/out/sermon-reel-phone.mp4)).*
+
 ## The verses
 
 | v. | King James Version (1769) | World English Bible |

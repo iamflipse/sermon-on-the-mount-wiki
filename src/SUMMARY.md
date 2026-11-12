@@ -4,6 +4,7 @@
 
 - [Cheat Sheet](cheatsheet.md)
 - [About and Sources](about.md)
+- [Videos](videos.md)
 
 # The Text
 

@@ -4,6 +4,12 @@
 
 ← [Pearls Before Swine](20-pearls-before-swine.md) · [Matthew 7 full text](../text/matthew-7.md) · [The Golden Rule](22-golden-rule.md) →
 
+## Video: Ask, seek, knock
+
+<video controls playsinline preload="metadata" style="width:100%;max-width:360px;border-radius:8px" src="https://spark-c848.tail773700.ts.net:8444/out/sermon-reel-ask-phone.mp4"></video>
+
+*Vertical essay reel, 71 s. Plays on your tailnet only ([open video](https://spark-c848.tail773700.ts.net:8444/out/sermon-reel-ask-phone.mp4)).*
+
 ## The verses
 
 | v. | King James Version (1769) | World English Bible |

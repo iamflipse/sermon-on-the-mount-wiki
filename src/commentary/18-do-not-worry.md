@@ -4,6 +4,12 @@
 
 ← [Two Masters](17-two-masters.md) · [Matthew 6 full text](../text/matthew-6.md) · [Judging, the Mote and the Beam](19-judging.md) →
 
+## Video: Do not worry about tomorrow
+
+<video controls playsinline preload="metadata" style="width:100%;max-width:360px;border-radius:8px" src="https://spark-c848.tail773700.ts.net:8444/out/sermon-reel-worry-phone.mp4"></video>
+
+*Vertical essay reel, 76 s. Plays on your tailnet only ([open video](https://spark-c848.tail773700.ts.net:8444/out/sermon-reel-worry-phone.mp4)).*
+
 ## The verses
 
 | v. | King James Version (1769) | World English Bible |
